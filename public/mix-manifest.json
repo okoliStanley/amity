@@ -1,0 +1,12 @@
+{
+    "/themes/default/assets/css/backend.css": "/themes/default/assets/css/backend.css",
+    "/themes/default/assets/css/frontend.css": "/themes/default/assets/css/frontend.css",
+    "/themes/default/assets/js/jquery.js": "/themes/default/assets/js/jquery.js",
+    "/themes/default/assets/js/bootstrap.js": "/themes/default/assets/js/bootstrap.js",
+    "/themes/default/assets/js/simplemde.js": "/themes/default/assets/js/simplemde.js",
+    "/themes/default/assets/js/moment.js": "/themes/default/assets/js/moment.js",
+    "/themes/default/assets/js/datepicker.js": "/themes/default/assets/js/datepicker.js",
+    "/themes/default/assets/js/all.js": "/themes/default/assets/js/all.js",
+    "/themes/default/assets/sass/simplemde.min.css": "/themes/default/assets/sass/simplemde.min.css",
+    "/themes/default/assets/sass/datepicker.scss": "/themes/default/assets/sass/datepicker.scss"
+}

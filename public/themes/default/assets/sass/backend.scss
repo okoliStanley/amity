@@ -1,0 +1,41 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+//font-awesome
+@import "node_modules/font-awesome/scss/font-awesome.scss";
+
+//simplemde
+@import "simplemde.min.css";
+
+//datetimpicker
+@import "datepicker.scss";
+
+h1 {
+	color:green;
+}
+
+.vertical-center{
+	display:flex;
+	min-height:100vh;
+	align-items:center;
+	justify-content:center;
+}
+
+body{
+	padding-bottom:2rem;
+}
+
+.container {
+	color:green;
+}
+
+.excerpt .CodeMirror {
+	height: 150px;
+	min-Height: 150px;
+}
